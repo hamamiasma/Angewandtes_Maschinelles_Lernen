@@ -140,4 +140,4 @@ lambda x: x**2
 ## Tipps für den Kurserfolg
 1. Arbeiten Sie regelmäßig an den Assignments
 2. Nutzen Sie die automatischen Testfälle
-3. Arbeiten Sie effektiv im 3er-Team
+
